@@ -1,4 +1,4 @@
-# https://kalatopi.io
+# kalatopi.io
 
 Collective of people, projects, and tools built around security and AI/ML.
 ## Contact
